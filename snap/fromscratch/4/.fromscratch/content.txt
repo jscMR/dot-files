@@ -1,4 +1,0 @@
-- falta arreglar el tema del mpd ese y poner el spotify
-
-- poner iconos en la parte de arriba con los programas mas usados. correo, skype, browsers, etc
-- el power menu tampoco va
