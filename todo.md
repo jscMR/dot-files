@@ -1,0 +1,3 @@
+- calendario
+- calculadora
+- ver como guardar bien el .dot_files

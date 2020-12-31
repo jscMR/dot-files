@@ -1,0 +1,49 @@
+{
+   "checksum": "7d505df16cf04f0238dbaee82bc44e0d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13253221850810033",
+               "guid": "ff0710c0-d66b-4b9e-a9c3-68e799ec13aa",
+               "id": "5",
+               "name": "Archivos de configuración de Bspwm - s4vitar.io",
+               "type": "url",
+               "url": "https://s4vitar.github.io/bspwm-configuration-files/#"
+            } ],
+            "date_added": "13253221876485195",
+            "date_modified": "13253221876485387",
+            "guid": "485463f2-7ff0-41c1-91ca-ba43343a2ba9",
+            "id": "6",
+            "name": "Arch - custom",
+            "type": "folder"
+         } ],
+         "date_added": "13253218712572021",
+         "date_modified": "13253221850810033",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13253218712572022",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13253218712572022",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgmANARYX7cFACGANARYX7cFADIYChYIAhFyfdVnX7cFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgDQEWF+3BQAhgDQEWF+3BQAyGAoWCAIRcn3VZ1+3BQAYACEAAAAAAAAAACAASJuE3vzpLnDY6Iug6S4SACABKhhZcEU5dVVxMVBVY3pkSHpwbUIwMTJRPT0SwwEIAhK+AQocekRWR3JydFpMZE0rNEJUeWJnK0hDT3JXZ3lvPRJmWjpBRHF0QVp5WXhnSDZrWjRNTEUxWFQydmdRZXJXblhaaEhNdHUxRlZZVmszY21zSlVHam5veWFRcjlxT0RFOGIxc1E4QXF2MnNLY3plOGlVZGR4Mk15L1E1TFFWZzdsL2tLQT09GAAgACgAMIO2q9yi5u0COABAAEocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAASwwEIAxK+AQoceTVXRTI3dUk2dlgvRGVJU0hKem5qTXF1V1dzPRJmWjpBRHF0QVp4OWxleUt2aDBDTUFzbnNucVpZcnFyQmhZczdEdmNaMXMrbFVxMzlVY29MWGZKRE5lNDVmdlJIRVdOT01GK09FS3Z2bGgzNmtjSktsdVl0WHh1RTFBRlpZazdqdz09GAAgACgAMIO2q9yi5u0COABAAEocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAZQAAAAASqwEIARKmAQocL0VLTGFVVXlNZGJLRWsxQmEyVWlueURuZjdJPRJOWjpBRHF0QVp6czBkakxsZlo0djVwVkhmNjdYWDhaekJlK1BHSTVOVEtQMVpxWkFQWnliT00rSkFUV0xQK2lPU2VUK29nV0w3ZjVoeHhtGAAgACgAMIO2q9yi5u0COABAAEocVStHR0l0WkVEcFpzSVNsT1VhSVR1SUxkTW5JPVoAZQAAAAASrAIIBhKnAgocdjBFUktSeHNrWnowZkZ4V0R1RGdLUVFhdk84PRKmAVo6QURxdEFad1JGK0FJK3dlSlBaMTlqUkpiZmZmdDJKZTErWkt0dUQxcjl4RlZBQ0t1M0xsV0pkUHBrNW5hUlJNZThtWUhyNnV5VGJqZVl0a09ibHpoYm1yb0U3R0NoSmVYb0tadUk5Z3R5Q3dCZEYyS0p1QW5adm4zV014UUk0MzhGZG5NNWZSMkFDV1F0ZStZWGVuSDFjY3Axck9CZWVoSDF3PT0YACABKAEw/Pqenerm7QI4kuqLoOkuQIWyn6npLkocaFRHcU1MQVdpZWFqOTBWNkExVEtBOHdUMTdRPVoeIhxHWUJMYkYwVkxBM0x4REZ2K3RKTXJhWHJFeXc9ZQAAAAASrAIIBRKnAgocY3B6aFJoL0pXejJSZHNiRmhQWXNxbjl5eUlnPRKmAVo6QURxdEFad1JGK0FJK3dlSlBaMTlqUkpiZmZmdDJKZTErWkt0dUQxcjl4RlZBQ0t1M0l4eVFxRWRTTXVqblQrZWN1dkl2KzVYaDhZR1o3K3IxN3RSN20ydVpiZ0xGbHBGSzE5ay95V1hxRWFDcVN2R0hxN0QzbzdxTEx0aHdLcWdubnJIb0lXbitIOHNCVHBUdFRRVkk4NjlNMUVBenBYc3JnPT0YACACKAIw/Pqenerm7QI4kuqLoOkuQIWyn6npLkocaFQvSEJoSDVXQ25MeE5JSnpOZEs3U2NaKzRFPVoeIhxRa29vRytoemtwU3haUm8rZzBMT3dEZ2dXdGM9ZQ6fEisYASD5+d386S4=",
+   "version": 1
+}

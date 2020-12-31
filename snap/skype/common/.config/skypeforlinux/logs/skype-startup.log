@@ -1,0 +1,55 @@
+libgvfscommon.so: cannot open shared object file: No such file or directory
+Failed to load module: /home/noid/snap/skype/common/.cache/gio-modules/libgioremote-volume-monitor.so
+libgvfscommon.so: cannot open shared object file: No such file or directory
+Failed to load module: /home/noid/snap/skype/common/.cache/gio-modules/libgvfsdbus.so
+/usr/lib/gvfs/libgvfscommon.so: undefined symbol: g_task_set_name
+Failed to load module: /usr/lib/gio/modules/libgvfsdbus.so
+
+(skypeforlinux:9496): GLib-GIO-WARNING **: 19:41:31.495: Tried to register an extension of the type (null) to extension point gsettings-backend. Expected type is GObject.
+(electron) The default value of app.allowRendererProcessReuse is deprecated, it is currently "false".  It will change to be "true" in Electron 9.  For more information please check https://github.com/electron/electron/issues/18397
+Fontconfig warning: "/etc/fonts/conf.avail/05-reset-dirs-sample.conf", line 6: unknown element "reset-dirs"
+** Message: 19:41:34.800: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:41:35.069: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:41:35.086: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:41:35.159: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:41:35.184: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+Error occurred in handler for 'ELECTRON_GUEST_VIEW_MANAGER_CALL': Error: Script failed to execute, this normally means an error was thrown. Check the renderer console for the error.
+    at WebFrame../lib/renderer/api/web-frame.ts.WebFrame.<computed> [as executeJavaScript] (electron/js2c/renderer_init.js:2924:33)
+    at electron/js2c/renderer_init.js:4227:43
+    at electron/js2c/renderer_init.js:3781:57
+    at EventEmitter.<anonymous> (electron/js2c/renderer_init.js:3843:13)
+    at EventEmitter.emit (events.js:210:5)
+    at Object.onMessage (electron/js2c/renderer_init.js:3536:16)
+** Message: 19:43:03.804: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:set-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:43:03.806: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:set-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:43:03.853: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:43:03.854: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:delete-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+** Message: 19:43:03.855: Remote error from secret service: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files
+Error occurred in handler for 'keychain:get-password': [Error: The name org.freedesktop.secrets was not provided by any .service files]
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlp4s0, errno = 19 (No such device)
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM mic_call
+ALSA lib pcm_direct.c:1722:(snd1_pcm_direct_parse_open_conf) Unknown field tstamp_type
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM call
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM loopback_call
+ALSA lib pcm_direct.c:1722:(snd1_pcm_direct_parse_open_conf) Unknown field tstamp_type
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM mic_call
+ALSA lib pcm_direct.c:1722:(snd1_pcm_direct_parse_open_conf) Unknown field tstamp_type
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM call
+ALSA lib pcm.c:2266:(snd_pcm_open_noupdate) Unknown PCM loopback_call
+ALSA lib pcm_direct.c:1722:(snd1_pcm_direct_parse_open_conf) Unknown field tstamp_type
+ioctl failed for wlan0, errno = 19 (No such device)
+ioctl failed for wlp2s0, errno = 19 (No such device)
+ioctl failed for wlp3s0, errno = 19 (No such device)
+ioctl failed for wlp4s0, errno = 19 (No such device)

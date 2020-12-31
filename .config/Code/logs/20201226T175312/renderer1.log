@@ -1,0 +1,1 @@
+[2020-12-26 17:53:13.115] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/noid/.config/polybar/forest/.vscode'

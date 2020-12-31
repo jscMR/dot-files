@@ -1,0 +1,672 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/filesystem
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:q
+|2,0,1609065256,,"q"
+:wq
+|2,0,1609064888,,"wq"
+:qw
+|2,0,1609064882,,"qw"
+:qa
+|2,0,1609064294,,"qa"
+:q!
+|2,0,1608996598,,"q!"
+:PlugInstall
+|2,0,1608809746,,"PlugInstall"
+:PlugClean
+|2,0,1608809738,,"PlugClean"
+:d
+|2,0,1608808853,,"d"
+:dd
+|2,0,1608808749,,"dd"
+:so %
+|2,0,1608808073,,"so %"
+:Pluginstall
+|2,0,1608808054,,"Pluginstall"
+:Q
+|2,0,1608744476,,"Q"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/filesystem
+|2,1,1608996917,47,"filesystem"
+?/file
+|2,1,1608996907,47,"file"
+?/audio_out
+|2,1,1608996858,47,"audio_out"
+?/auto_update
+|2,1,1608996847,47,"auto_update"
+?/auto
+|2,1,1608996837,47,"auto"
+?/map
+|2,1,1608809599,47,"map"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+@y
+|2,3,1608809740,,"y"
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	LINE	0
+	sudo snap install code --classic
+	echo "----->>> Instalando snap ---->"
+|3,0,0,1,2,0,1608920404,"sudo snap install code --classic","echo \"----->>> Instalando snap ---->\""
+""1	LINE	0
+	sudo pacman -S mpd --noconfirm
+|3,1,1,1,1,0,1609064557,"sudo pacman -S mpd --noconfirm"
+"2	LINE	0
+	sudo pacman -S mpd --noconfirm
+|3,0,2,1,1,0,1609064517,"sudo pacman -S mpd --noconfirm"
+"3	LINE	0
+	sudo snap install code --classic
+|3,0,3,1,1,0,1608920412,"sudo snap install code --classic"
+"4	LINE	0
+	echo "----->>> Instalando snap ---->"
+|3,0,4,1,1,0,1608920410,"echo \"----->>> Instalando snap ---->\""
+"5	LINE	0
+	echo "----->>> Instalando snap ---->"
+|3,0,5,1,1,0,1608919835,"echo \"----->>> Instalando snap ---->\""
+"6	LINE	0
+	git clone https://aur.archlinux.org/snapd.git
+|3,0,6,1,1,0,1608919834,"git clone https://aur.archlinux.org/snapd.git"
+"7	LINE	0
+	cd snapd
+|3,0,7,1,1,0,1608919833,"cd snapd"
+"8	LINE	0
+	makepkg -si
+|3,0,8,1,1,0,1608919832,"makepkg -si"
+"9	LINE	0
+	sudo systemctl enable --now snapd.socket
+|3,0,9,1,1,0,1608919832,"sudo systemctl enable --now snapd.socket"
+"-	CHAR	0
+	#
+|3,0,36,0,1,0,1608996895,"#"
+
+# Marcas en el archivo:
+'0  4  0  ~/NERD_tree_1
+|4,48,4,0,1609065256,"~/NERD_tree_1"
+'1  29  0  ~/scripts/install_desktop.sh
+|4,49,29,0,1609064888,"~/scripts/install_desktop.sh"
+'2  11  0  ~/scripts/install_utils.sh
+|4,50,11,0,1609064294,"~/scripts/install_utils.sh"
+'3  4  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,51,4,0,1608998859,"~/.config/ncmpcpp/NERD_tree_1"
+'4  1  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,52,1,0,1608998826,"~/.config/ncmpcpp/NERD_tree_1"
+'5  4  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,53,4,0,1608998826,"~/.config/ncmpcpp/NERD_tree_1"
+'6  4  0  ~/.mpd/NERD_tree_1
+|4,54,4,0,1608996931,"~/.mpd/NERD_tree_1"
+'7  1  0  ~/.mpd/NERD_tree_1
+|4,55,1,0,1608996661,"~/.mpd/NERD_tree_1"
+'8  4  0  ~/.mpd/NERD_tree_1
+|4,56,4,0,1608996661,"~/.mpd/NERD_tree_1"
+'9  6  0  ~/.mpd/mpd.conf
+|4,57,6,0,1608996598,"~/.mpd/mpd.conf"
+
+# Lista de saltos (el más reciente va primero):
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1609065256,"~/NERD_tree_1"
+-'  18  2  ~/NERD_tree_1
+|4,39,18,2,1609065253,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1609065253,"~/NERD_tree_1"
+-'  29  0  ~/scripts/install_desktop.sh
+|4,39,29,0,1609064888,"~/scripts/install_desktop.sh"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1609064877,"~/NERD_tree_1"
+-'  18  2  ~/NERD_tree_1
+|4,39,18,2,1609064687,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1609064687,"~/NERD_tree_1"
+-'  11  0  ~/scripts/install_utils.sh
+|4,39,11,0,1609064294,"~/scripts/install_utils.sh"
+-'  1  0  ~/scripts/install_utils.sh
+|4,39,1,0,1609064283,"~/scripts/install_utils.sh"
+-'  4  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,4,0,1608998859,"~/.config/ncmpcpp/NERD_tree_1"
+-'  4  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,4,0,1608998859,"~/.config/ncmpcpp/NERD_tree_1"
+-'  7  2  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,7,2,1608998838,"~/.config/ncmpcpp/NERD_tree_1"
+-'  1  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,1,0,1608998838,"~/.config/ncmpcpp/NERD_tree_1"
+-'  7  2  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,7,2,1608998838,"~/.config/ncmpcpp/NERD_tree_1"
+-'  1  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,1,0,1608998838,"~/.config/ncmpcpp/NERD_tree_1"
+-'  4  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,4,0,1608998826,"~/.config/ncmpcpp/NERD_tree_1"
+-'  4  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,4,0,1608998826,"~/.config/ncmpcpp/NERD_tree_1"
+-'  6  2  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,6,2,1608998775,"~/.config/ncmpcpp/NERD_tree_1"
+-'  1  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,1,0,1608998775,"~/.config/ncmpcpp/NERD_tree_1"
+-'  6  2  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,6,2,1608998775,"~/.config/ncmpcpp/NERD_tree_1"
+-'  1  0  ~/.config/ncmpcpp/NERD_tree_1
+|4,39,1,0,1608998775,"~/.config/ncmpcpp/NERD_tree_1"
+-'  4  0  ~/.mpd/NERD_tree_1
+|4,39,4,0,1608996931,"~/.mpd/NERD_tree_1"
+-'  4  0  ~/.mpd/NERD_tree_1
+|4,39,4,0,1608996931,"~/.mpd/NERD_tree_1"
+-'  8  2  ~/.mpd/NERD_tree_1
+|4,39,8,2,1608996746,"~/.mpd/NERD_tree_1"
+-'  1  0  ~/.mpd/NERD_tree_1
+|4,39,1,0,1608996746,"~/.mpd/NERD_tree_1"
+-'  8  2  ~/.mpd/NERD_tree_1
+|4,39,8,2,1608996746,"~/.mpd/NERD_tree_1"
+-'  1  0  ~/.mpd/NERD_tree_1
+|4,39,1,0,1608996746,"~/.mpd/NERD_tree_1"
+-'  4  0  ~/.mpd/NERD_tree_1
+|4,39,4,0,1608996661,"~/.mpd/NERD_tree_1"
+-'  4  0  ~/.mpd/NERD_tree_1
+|4,39,4,0,1608996661,"~/.mpd/NERD_tree_1"
+-'  8  2  ~/.mpd/NERD_tree_1
+|4,39,8,2,1608996659,"~/.mpd/NERD_tree_1"
+-'  1  0  ~/.mpd/NERD_tree_1
+|4,39,1,0,1608996659,"~/.mpd/NERD_tree_1"
+-'  8  2  ~/.mpd/NERD_tree_1
+|4,39,8,2,1608996659,"~/.mpd/NERD_tree_1"
+-'  1  0  ~/.mpd/NERD_tree_1
+|4,39,1,0,1608996659,"~/.mpd/NERD_tree_1"
+-'  6  0  ~/.mpd/mpd.conf
+|4,39,6,0,1608996598,"~/.mpd/mpd.conf"
+-'  6  0  ~/.mpd/mpd.conf
+|4,39,6,0,1608996598,"~/.mpd/mpd.conf"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1608996594,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1608996594,"~/NERD_tree_1"
+-'  18  2  ~/NERD_tree_1
+|4,39,18,2,1608996563,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1608996563,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1608996560,"~/NERD_tree_1"
+-'  18  2  ~/NERD_tree_1
+|4,39,18,2,1608996506,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1608996506,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1608995711,"~/NERD_tree_1"
+-'  19  2  ~/NERD_tree_1
+|4,39,19,2,1608995684,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1608995684,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1608995615,"~/NERD_tree_1"
+-'  19  2  ~/NERD_tree_1
+|4,39,19,2,1608995588,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1608995588,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1608920465,"~/NERD_tree_1"
+-'  17  2  ~/NERD_tree_1
+|4,39,17,2,1608920444,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1608920444,"~/NERD_tree_1"
+-'  4  0  ~/NERD_tree_1
+|4,39,4,0,1608920424,"~/NERD_tree_1"
+-'  17  2  ~/NERD_tree_1
+|4,39,17,2,1608920402,"~/NERD_tree_1"
+-'  1  0  ~/NERD_tree_1
+|4,39,1,0,1608920402,"~/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608920082,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608920082,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608920018,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608920018,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608920018,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608920018,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608920006,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608920006,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919941,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919941,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919941,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919941,"~/scripts/NERD_tree_1"
+-'  4  5  ~/scripts/install_devtools.sh
+|4,39,4,5,1608919930,"~/scripts/install_devtools.sh"
+-'  4  5  ~/scripts/install_devtools.sh
+|4,39,4,5,1608919930,"~/scripts/install_devtools.sh"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608919926,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608919926,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919830,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919830,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919830,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919830,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608919646,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608919646,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919616,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919616,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919616,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919616,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608919590,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608919590,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919572,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919572,"~/scripts/NERD_tree_1"
+-'  9  2  ~/scripts/NERD_tree_1
+|4,39,9,2,1608919572,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608919572,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608826468,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608826468,"~/scripts/NERD_tree_1"
+-'  8  2  ~/scripts/NERD_tree_1
+|4,39,8,2,1608826454,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608826454,"~/scripts/NERD_tree_1"
+-'  8  2  ~/scripts/NERD_tree_1
+|4,39,8,2,1608826454,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608826454,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608826446,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608826446,"~/scripts/NERD_tree_1"
+-'  8  2  ~/scripts/NERD_tree_1
+|4,39,8,2,1608826441,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608826441,"~/scripts/NERD_tree_1"
+-'  8  2  ~/scripts/NERD_tree_1
+|4,39,8,2,1608826441,"~/scripts/NERD_tree_1"
+-'  1  0  ~/scripts/NERD_tree_1
+|4,39,1,0,1608826441,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608826434,"~/scripts/NERD_tree_1"
+-'  4  0  ~/scripts/NERD_tree_1
+|4,39,4,0,1608826434,"~/scripts/NERD_tree_1"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/NERD_tree_1
+	*	1609065253	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/scripts/install_desktop.sh
+	*	1609064885	0
+	"	29	0
+	^	29	0
+	.	23	24
+	+	3	179
+	+	22	35
+	+	24	33
+	+	12	0
+	+	24	0
+	+	21	22
+	+	23	24
+
+> ~/scripts/install_utils.sh
+	*	1609064290	0
+	"	11	0
+
+> ~/.config/ncmpcpp/config
+	*	1608998858	0
+	"	92	20
+	^	92	21
+	.	92	20
+	+	14	36
+	+	3	26
+	+	4	39
+	+	5	37
+	+	15	0
+	+	92	20
+
+> ~/.config/ncmpcpp/NERD_tree_1
+	*	1608998837	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.mpd/mpd.conf
+	*	1608996930	0
+	"	401	0
+	^	401	0
+	.	401	0
+	+	3	10
+	+	1	0
+	+	13	26
+	+	20	0
+	+	28	0
+	+	37	0
+	+	43	0
+	+	50	0
+	+	55	0
+	+	67	12
+	+	119	0
+	+	204	0
+	+	205	0
+	+	206	0
+	+	207	0
+	+	206	1
+	+	207	0
+	+	208	0
+	+	209	0
+	+	210	0
+	+	211	0
+	+	212	0
+	+	401	0
+
+> ~/.mpd/NERD_tree_1
+	*	1608996746	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> .mpd/mpd.conf
+	*	1608996659	0
+	"	1	0
+
+> ~/.config/bspwm/bspwmrc
+	*	1608995615	0
+	"	21	31
+	^	21	32
+	.	21	31
+	+	24	58
+	+	25	14
+	+	23	1
+	+	25	14
+	+	28	14
+	+	29	4
+	+	20	12
+	+	21	31
+
+> ~/scripts/install_vscode.sh
+	*	1608920465	0
+	"	1	5
+	^	1	6
+	.	1	2
+	+	1	2
+	+	1	31
+	+	4	1
+	+	3	0
+	+	4	0
+	+	3	31
+	+	1	2
+
+> ~/scripts/install_snap.sh
+	*	1608920082	0
+	"	6	0
+	^	6	0
+	.	5	40
+	+	1	10
+	+	5	40
+
+> ~/scripts/NERD_tree_1
+	*	1608920018	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/scripts/README.md
+	*	1608920005	0
+	"	8	8
+	^	8	9
+	.	8	8
+	+	3	0
+	+	4	19
+	+	5	28
+	+	6	39
+	+	7	8
+	+	8	8
+
+> ~/scripts/install_devtools.sh
+	*	1608919927	0
+	"	4	5
+	.	5	0
+	+	2	35
+	+	5	37
+	+	5	45
+	+	5	8
+	+	5	11
+	+	5	40
+	+	5	0
+
+> ~/scripts/install-music.sh
+	*	1608826467	0
+	"	3	28
+	^	3	29
+	.	3	28
+	+	1	0
+	+	3	0
+	+	2	37
+	+	3	21
+	+	4	11
+	+	5	16
+	+	6	20
+	+	3	28
+
+> scripts/install-music.sh
+	*	1608826445	0
+	"	1	0
+
+> ~/.config/mopidy/mopidy.conf
+	*	1608826193	0
+	"	1	0
+	^	1	0
+	.	80	0
+	+	106	0
+	+	109	59
+	+	95	0
+	+	96	0
+	+	97	0
+	+	98	0
+	+	99	0
+	+	100	0
+	+	101	0
+	+	102	0
+	+	103	0
+	+	104	0
+	+	105	0
+	+	80	0
+
+> ~/.config/mopidy/NERD_tree_1
+	*	1608826108	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/install-music.sh
+	*	1608825943	0
+	"	1	0
+
+> ~/.config/sxhkd/sxhkdrc
+	*	1608825576	0
+	"	21	6
+	^	21	7
+	.	21	6
+	+	11	0
+	+	12	14
+	+	17	1
+	+	17	2
+	+	18	1
+	+	19	1
+	+	18	1
+	+	17	1
+	+	18	21
+	+	22	0
+	+	20	9
+	+	21	6
+
+> ~/.config/rofi/launchers/colorful/style_2.rasi
+	*	1608825284	0
+	"	64	0
+
+> ~/.config/rofi/launchers/colorful/NERD_tree_1
+	*	1608825246	0
+	"	4	0
+	.	1	0
+	+	1	0
+
+> ~/.config/polybar/config.ini
+	*	1608825070	0
+	"	149	0
+
+> ~/.config/polybar/launch.sh
+	*	1608825017	0
+	"	1	0
+	^	13	0
+	.	13	0
+	+	12	26
+	+	10	14
+	+	13	0
+
+> ~/.config/rofi/launchers/colorful/launcher.sh
+	*	1608824963	0
+	"	14	13
+	^	14	14
+	.	14	13
+	+	14	13
+
+> ~/.gitignore
+	*	1608824603	0
+	"	12	4
+	^	12	5
+	.	12	4
+	+	2	11
+	+	8	7
+	+	9	6
+	+	10	14
+	+	11	8
+	+	12	4
+
+> ~/.config/polybar/colors.ini
+	*	1608823002	0
+	"	224	0
+
+> ~/Scripts/install_desktop.sh
+	*	1608822480	0
+	"	3	127
+	^	3	128
+	.	3	128
+	+	3	100
+	+	6	14
+	+	3	98
+	+	7	0
+	+	3	128
+
+> ~/ControlP
+	*	1608809762	0
+	"	10	0
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/.vimrc
+	*	1608809729	0
+	"	17	0
+	^	14	0
+	.	8	24
+	+	3	21
+	+	16	18
+	+	3	35
+	+	4	23
+	+	197	58
+	+	16	0
+	+	3	0
+	+	4	0
+	+	5	24
+	+	16	0
+	+	19	0
+	+	16	26
+	+	16	27
+	+	17	21
+	+	18	26
+	+	19	47
+	+	20	100
+	+	5	25
+	+	6	33
+	+	16	33
+	+	22	0
+	+	23	14
+	+	35	6
+	+	7	28
+	+	16	29
+	+	16	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	15	33
+	+	10	0
+	+	8	24
+
+> ~/Scripts/install_devtools.sh
+	*	1608808697	0
+	"	4	4
+	^	4	5
+	.	4	4
+	+	1	37
+	+	3	25
+	+	4	12
+	+	1	10
+	+	3	36
+	+	4	4
+
+> ~/.config/mpd/mpd.conf
+	*	1608806925	0
+	"	280	0
+
+> ~/Scripts/README.md
+	*	1608805341	0
+	"	2	62
+	^	2	63
+	.	2	62
+	+	2	62
+
+> ~/.config/polybar/config
+	*	1608804621	0
+	"	413	28
+
+> ~/Scripts/install_bspwm_complete.sh
+	*	1608801609	0
+	"	69	0
+
+> ~/README.md
+	*	1608760669	0
+	"	1	0

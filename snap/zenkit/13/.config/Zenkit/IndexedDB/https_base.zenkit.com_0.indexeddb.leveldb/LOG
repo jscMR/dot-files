@@ -1,0 +1,5 @@
+2020/12/25-19:37:43.025 1ec3 Reusing MANIFEST /home/noid/snap/zenkit/13/.config/Zenkit/IndexedDB/https_base.zenkit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/25-19:37:43.979 1ecd Level-0 table #5: started
+2020/12/25-19:37:44.032 1ecd Level-0 table #5: 12258 bytes OK
+2020/12/25-19:37:44.091 1ecd Delete type=0 #3
+2020/12/25-19:37:44.112 1eff Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

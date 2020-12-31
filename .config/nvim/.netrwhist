@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/noid/Rational/woice-shopify-search/server/shopify-manager'
+let g:netrw_dirhist_3='/home/noid/.config/polybar/forest'
+let g:netrw_dirhist_2='/home/noid/.config/polybar/cuts'
+let g:netrw_dirhist_1='/home/noid/.config/polybar/forest/scripts'

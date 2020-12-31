@@ -1,0 +1,1 @@
+[2020-12-26 17:24:43.325] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/noid/.config/polybar/material/.vscode'

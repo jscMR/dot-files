@@ -1,0 +1,5 @@
+2020/12/24-10:17:46.108 f36f Reusing MANIFEST /home/noid/.config/google-chrome/Default/IndexedDB/https_secureframe.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/24-10:18:17.311 f36f Level-0 table #5: started
+2020/12/24-10:18:17.321 f36f Level-0 table #5: 364 bytes OK
+2020/12/24-10:18:17.333 f36f Delete type=0 #3
+2020/12/24-10:18:17.334 f36f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,58 @@
+Looking for git in: git
+Using git 2.29.2 from git
+> git rev-parse --git-dir
+Open repository: /home/noid
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :.config/polybar/forest/launch.sh
+> git ls-files --stage -- /home/noid/.config/polybar/forest/launch.sh
+> git cat-file -s 2c31c90800ed9067c17d2a1d86bd049a3203f5c8
+> git show --textconv :.config/polybar/forest/config.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/config.ini
+> git cat-file -s 06b215b898107fe4896e530057475c7baf6dd6f4
+> git show --textconv :.config/polybar/forest/launch.sh
+> git ls-files --stage -- /home/noid/.config/polybar/forest/launch.sh
+> git cat-file -s 2c31c90800ed9067c17d2a1d86bd049a3203f5c8
+> git show --textconv :.config/polybar/forest/config.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/config.ini
+> git cat-file -s 06b215b898107fe4896e530057475c7baf6dd6f4
+> git show --textconv :.config/polybar/forest/preview.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/preview.ini
+> git cat-file -s 5769c6cda663cc551c488908dbaf73e2eb146453
+> git show --textconv :.config/polybar/forest/preview.sh
+> git ls-files --stage -- /home/noid/.config/polybar/forest/preview.sh
+> git cat-file -s 695d051ff0fec5959e3c82fe9a41f03cbe2fbd3f
+> git show --textconv :.config/polybar/forest/launch.sh
+> git ls-files --stage -- /home/noid/.config/polybar/forest/launch.sh
+> git cat-file -s 2c31c90800ed9067c17d2a1d86bd049a3203f5c8
+> git show --textconv :.config/polybar/forest/modules.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/modules.ini
+> git cat-file -s f6e6cc2b1960945640722d4e6c464ad1a6f2f70b
+> git show --textconv :.config/polybar/forest/preview.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/preview.ini
+> git cat-file -s 5769c6cda663cc551c488908dbaf73e2eb146453
+> git show --textconv :.config/polybar/forest/user_modules.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/user_modules.ini
+> git cat-file -s f590482906a9d055acad419beb36a9b88d10e141
+> git show --textconv :.config/polybar/forest/config.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/config.ini
+> git cat-file -s 06b215b898107fe4896e530057475c7baf6dd6f4
+> git show --textconv :.config/polybar/forest/user_modules.ini
+> git ls-files --stage -- /home/noid/.config/polybar/forest/user_modules.ini
+> git cat-file -s f590482906a9d055acad419beb36a9b88d10e141
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/noid/.config/polybar/forest/user_modules.ini
